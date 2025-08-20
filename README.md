@@ -39,14 +39,6 @@ Source: UCI Iris Dataset
 
 Columns: SepalLengthCm, SepalWidthCm, PetalLengthCm, PetalWidthCm, Species
 
-Objectives
-
-Perform exploratory data analysis (EDA) and visualize relationships.
-
-Train classification models (Logistic Regression, KNN, Decision Trees).
-
-Evaluate model performance using accuracy and confusion matrix.
-
 Tools & Libraries
 
 Python, pandas, numpy, matplotlib, seaborn, scikit-learn
